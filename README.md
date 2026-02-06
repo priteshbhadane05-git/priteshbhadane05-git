@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Pritesh Dilip Bhadane
 I'm a third year IT Engineering Student passionate about Full Stack Developer like in Python or Java and Open to Internships
 
 
